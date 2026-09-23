@@ -1,4 +1,4 @@
-# 30 Days AWS Zero to Hero
+# AWS Zero to Hero
 
 ## Prerequisites:
 1. Windows/ Mac laptop

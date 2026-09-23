@@ -2,7 +2,7 @@
 
 ## Prerequisites:
 1. Windows/ Mac laptop
-2. Basic Linux Commands
+2. Basic Windows and Linux Commands
 
 ## Day 1: AWS Overview
 Understanding the fundamentals of cloud computing, focusing on AWS's global infrastructure and account creation.
